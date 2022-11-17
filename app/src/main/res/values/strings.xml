@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Task07RelativeLayout</string>
+
+    <string-array name="dlangs">
+        <item>Casado</item>
+        <item>Soltero</item>
+        <item>Viudo</item>
+    </string-array>
+
+    <string-array name="cargos">
+        <item>Ventas</item>
+        <item>Informática</item>
+        <item>Jardinería</item>
+    </string-array>
+</resources>
+
+
+
